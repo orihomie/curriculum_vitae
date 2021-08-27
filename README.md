@@ -1,7 +1,9 @@
 # Curriculum Vitæ
 
 ## Orkhan Mamedov
-About me
+I'm 28 and I love the life as it is with all its pros and cons.<br>
+Doing calisthenics and dreaming to side / full split one day.<br>
+
 
 ### Personal Information
 
