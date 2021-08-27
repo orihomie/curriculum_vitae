@@ -41,30 +41,54 @@ General: building a process of incorporating test pyramid in scrum teams.
 
 <b>МТС ИТ</b>, October 2017—September 2018<br>
 Moscow, Russia<br><br>
+General: Introducing myself to the QA automation direction
 
 Lead Developer<br>
-General: ...
-* a<br><br>
+* Developing ML system (ML libs, rest services) to analyze test results and then create new bugs or dig old ones [Python, Docker]
+    * Data mining, feature extraction, working as an analyst to bring MVP to live
+* Developing new libraries for testing purposes, including manual testing needs
+* Refactoring of legacy test framework called "Sunkey"
 
 QA Automation Egnineer<br>
-* a<br><br>
+* writing tests [C#, TFS]
+* understanding of hopelessness :fearful: of waterfall companies trying to agile with no intention to change processes<br><br>
 
 <b>Руссоль</b> January 2017—August 2017<br>
 Orenburg, Russia<br><br>
 
 ERP Engineer
-General: ...
-* a<br><br>
+General: My first full time job, learning what ERP is and where's there the place of the developers
+* introduction of QR-based document flow [C++, OpenCV, Tesseract, MS Axapta 2016]
+* provide operational support for ERP system (Infor LN), in Production and Supply Chain to ensure the quick resolution of data or processing issues [X++]
+* provide user training for new starters and existing staff as required
+
 
 ### Personal qualities
-* a
-* b 
+* curious
+* initiative
+* open-minded
+* responsible
 
 ### Key skills
-...
+* C#
+* Python
+* JS/TS
+* Golang
+* Docker
+* Linux
+* Git
+* SQL
+* Redis
+* Concepts
+    * OOP
+    * SOLID
+    * Test Pyramid
 
 ### Special skills
-...
+* Native Russian
+* Fluent English
+* Driving License (B)
+* Citizenship: Russia
 
 ### References
 * [StackOverflow](khttps://stackoverflow.com/users/3741692/orkhan-m)
