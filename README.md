@@ -58,7 +58,7 @@ QA Automation Egnineer<br>
 <b>Руссоль</b> January 2017—August 2017<br>
 Orenburg, Russia<br><br>
 
-ERP Engineer
+ERP Engineer<br><br>
 General: My first full time job, learning what ERP is and where's there the place of the developers
 * introduction of QR-based document flow [C++, OpenCV, Tesseract, MS Axapta 2016]
 * provide operational support for ERP system (Infor LN), in Production and Supply Chain to ensure the quick resolution of data or processing issues [X++]
