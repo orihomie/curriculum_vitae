@@ -97,3 +97,4 @@ General: My first full time job, learning what ERP is and where's there the plac
 * [Medium](https://medium.com/@opxh)
 * [LinkedIn](https://www.linkedin.com/in/orkhan-mamedov-1baa6b170/)
 * [hh.ru](https://hh.ru/applicant/resumes/view?resume=875d43a7ff028ea0260039ed1f6f437a66706e)
+* [GitLab](https://gitlab.com/orihomie)
